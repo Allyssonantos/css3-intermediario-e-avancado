@@ -1,3 +1,9 @@
 *{
     border: 1px solid red;
 }
+
+/* Seletor de txto*/
+
+h1{
+    color: green;
+}
